@@ -3,7 +3,8 @@
 Install `awsp`:
 
 ```sh
-brew install arseniizakharov/awsp/awsp
+brew tap arseniizakharov/awsp
+brew install awsp
 ```
 
 Project repo: https://github.com/arseniizakharov/awsp
