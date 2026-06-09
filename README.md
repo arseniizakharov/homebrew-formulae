@@ -3,7 +3,7 @@
 Install `awsp`:
 
 ```sh
-brew tap arseniizakharov/awsp
+brew tap arseniizakharov/formulae
 brew install awsp
 ```
 
