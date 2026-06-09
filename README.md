@@ -1,15 +1,9 @@
 # Homebrew tap for awsp
 
-Install the beta:
+Install `awsp`:
 
 ```sh
-brew install nomadsre/awsp/awsp-beta
+brew install arseniizakharov/awsp/awsp
 ```
 
-Install the latest `main` build:
-
-```sh
-brew install --HEAD nomadsre/awsp/awsp-beta
-```
-
-Project repo: https://github.com/nomadsre/awsp
+Project repo: https://github.com/arseniizakharov/awsp
